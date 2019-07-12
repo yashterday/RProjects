@@ -1,7 +1,12 @@
 This Dataset is for a Heart Disease Predicter Model based on the following Kaggle DataSet:
  [Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci/downloads/heart-disease-uci.zip/1)
  
-The following Attributes were used:
+# Overview
+---
+This Classifier Model uses training set based on a randomly selected 70% of values from the data set and predicts the value of new data which in this case was the remaining 30% of data which was used to check the accuracy of the model. Although there was a relatively high error rate of ~ 20%, this project definitely was a strong stepping stone in creating more accurate models with larger data sets.
+ 
+# Attributes
+---
 - Age (in years)
 - Sex (1 = male; 0 = female)
 - cp
@@ -40,3 +45,5 @@ The following Attributes were used:
     - diagnosis of heart disease (angiographic disease status)
     - Value 0: < 50% diameter narrowing
     - Value 1: > 50% diameter narrowing (in any major vessel)
+
+
