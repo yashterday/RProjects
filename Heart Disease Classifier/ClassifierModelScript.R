@@ -1,4 +1,5 @@
 library(randomForest) #library used for modeling
+#for file.choose(), select heart.csv
 heart <- read.csv(file.choose(), header = TRUE, colClasses = c("target"="factor")) #need to change target to categorical var
 summary(heart)
 target <- heart$target
