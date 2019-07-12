@@ -40,4 +40,3 @@ The following Attributes were used:
     - diagnosis of heart disease (angiographic disease status)
     - Value 0: < 50% diameter narrowing
     - Value 1: > 50% diameter narrowing (in any major vessel)
-
